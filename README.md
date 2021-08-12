@@ -14,4 +14,4 @@ https://youtu.be/SvZziq9SLnI
 4.Run main.py
 
 # Support me
-patreon.com/ru5d1mg4me
+https://patreon.com/ru5d1mg4me
