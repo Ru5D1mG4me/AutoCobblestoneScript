@@ -12,3 +12,6 @@ https://youtu.be/SvZziq9SLnI
 3.Open main.py with Python IDE or any text writer
 
 4.Run main.py
+
+# Support me
+patreon.com/ru5d1mg4me
